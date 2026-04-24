@@ -37,14 +37,6 @@
             background-color: #9b1313;
         }
 
-        .project-card {
-            transition: 0.3s ease;
-        }
-
-        .project-card:hover {
-            transform: translateY(-8px);
-        }
-
         .project-card a {
             text-decoration: none;
             color: black;
@@ -54,4 +46,3 @@
         .project-card a:hover {
             color: #0d6efd;
         }
-        

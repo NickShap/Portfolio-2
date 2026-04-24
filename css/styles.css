@@ -1,0 +1,57 @@
+.custom-navbar {
+            background-color: #000000;
+        }
+
+        .navbar-nav .nav-link {
+            transition: 0.3s ease;
+            font-weight: 500;
+            border-radius: 8px;
+            padding: 6px 12px;
+        }
+
+        .navbar-nav .nav-link:hover {
+            background-color: black;
+            color: rgb(180, 12, 12);
+        }
+
+        
+        #home {
+            padding: 120px 20px;
+            background: #ffffff;
+            text-align: center;
+        }
+
+       
+        #about-me {
+            padding: 80px 20px;
+        }
+
+        .profile-img {
+            width: 250px;
+            height: 250px;
+        }
+
+       
+        #projects {
+            padding: 80px 20px;
+            background-color: #9b1313;
+        }
+
+        .project-card {
+            transition: 0.3s ease;
+        }
+
+        .project-card:hover {
+            transform: translateY(-8px);
+        }
+
+        .project-card a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+
+        .project-card a:hover {
+            color: #0d6efd;
+        }
+        

@@ -33,13 +33,13 @@
 
        
         #projects {
-            padding: 80px 20px;
+          
             background-color: #9b1313;
         }
 
-        .project-card a {
-            text-decoration: none;
-            color: black;
-            font-weight: bold;
+        .project-card  {
+            
+            height: 290px;
+            width: 600px;
         }
 

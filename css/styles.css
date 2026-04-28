@@ -1,45 +1,53 @@
 .custom-navbar {
-            background-color: #000000;
-        }
+    background-color: #000000;
+}
 
-        .navbar-nav .nav-link {
-            transition: 0.3s ease;
-            font-weight: 500;
-            border-radius: 8px;
-            padding: 6px 12px;
-        }
+.navbar-nav .nav-link {
+    transition: 0.3s ease;
+    font-weight: 500;
+    border-radius: 8px;
+    padding: 6px 12px;
+}
 
-        .navbar-nav .nav-link:hover {
-            background-color: black;
-            color: rgb(180, 12, 12);
-        }
+.navbar-nav .nav-link:hover {
+    background-color: black;
+    color: rgb(180, 12, 12);
+}
 
-        
-        #home {
-            padding: 120px 20px;
-            background: #ffffff;
-            text-align: center;
-        }
 
-       
-        #about-me {
-            padding: 80px 20px;
-        }
+#home {
+    padding: 120px 20px;
+    background: #ffffff;
+    text-align: center;
+}
 
-        .profile-img {
-            width: 250px;
-            height: 250px;
-        }
 
-       
-        #projects {
-          
-            background-color: #9b1313;
-        }
+#about-me {
+    padding: 80px 20px;
+}
 
-        .project-card  {
-            
-            height: 290px;
-            width: 600px;
-        }
+.profile-img {
+    width: 250px;
+    height: 250px;
+}
 
+
+#projects {
+
+    background-color: #9b1313;
+}
+
+.project-card {
+
+    height: 290px;
+    width: 600px;
+}
+
+
+ body{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
